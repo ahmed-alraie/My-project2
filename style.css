@@ -1,12 +1,10 @@
+/* إعدادات عامة */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: 'Tahoma', sans-serif;
 }
-
-
-
 
 body {
   display: flex;
@@ -15,7 +13,6 @@ body {
   height: 100vh;
   background: linear-gradient(135deg, #4a90e2, #9013fe);
 }
-
 
 /* صندوق تسجيل الدخول */
 .container {
